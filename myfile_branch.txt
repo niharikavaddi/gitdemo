@@ -1,1 +1,2 @@
-Hello, I am a new branch
+Hello, I am a new branch 
+(additional info)
